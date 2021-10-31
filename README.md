@@ -23,19 +23,20 @@ Output :
 
 Flowchart :
 
-![debit2](https://user-images.githubusercontent.com/93022913/139583656-b2be65cd-7cf1-4b80-915a-b5428b58036f.png)
+![1](https://user-images.githubusercontent.com/93022913/139585783-cd259e61-5544-4f7e-a9d5-9c5d042db4dc.png)
 
 Output :
 
-![Screenshot (368)](https://user-images.githubusercontent.com/93022913/139583803-7320a48e-1d27-4abf-8f63-d9985fa45ba0.png)
+![Screenshot (374)](https://user-images.githubusercontent.com/93022913/139585831-8f620364-c77d-42c8-a8aa-95d9dbd80be9.png)
 
 Vs-Code :
 
-![debit air 2](https://user-images.githubusercontent.com/93022913/139583651-4c4d3fe8-0439-435c-9c12-6f196c7ad6fa.png)
+![3](https://user-images.githubusercontent.com/93022913/139585785-d9fa95c3-5ad5-4ac5-8ef1-1be4b0ab4d3c.png)
+
 
 Output :
 
-![Screenshot (369)](https://user-images.githubusercontent.com/93022913/139583804-9696ef0a-7720-4d45-9daf-b8c181cceaca.png)
+![Screenshot (375)](https://user-images.githubusercontent.com/93022913/139585833-86b604dd-d505-4483-85db-1ccdacc1b6d9.png)
 
 3. Volume air terjun
 
