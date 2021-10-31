@@ -4,19 +4,20 @@
 
 Flowchart :
 
-![debit](https://user-images.githubusercontent.com/93022913/139583654-cb003deb-3b88-4a72-824d-30ebb996036d.png)
+![debittttt](https://user-images.githubusercontent.com/93022913/139584862-5419d232-bc22-4ef9-9e0b-fbcc5ce9d881.png)
+
 
 Output :
 
-![Screenshot (366)](https://user-images.githubusercontent.com/93022913/139583798-ed0016ff-b0c7-4cf4-8ca8-397e507ac4c6.png)
+![Screenshot (372)](https://user-images.githubusercontent.com/93022913/139584760-74931ab6-1dd1-4708-b39f-62ce167b5a55.png)
 
 Vs-code (.py) :
 
-![debit air](https://user-images.githubusercontent.com/93022913/139583605-c72bc26e-4076-4bab-9dca-b8fe1543fe93.png)
+![debittt](https://user-images.githubusercontent.com/93022913/139584852-5d0bf6ef-d8b3-4618-b635-3434f0188f31.png)
 
 Output :
 
-![Screenshot (367)](https://user-images.githubusercontent.com/93022913/139583802-ff3b7cac-23b8-41ea-a872-b1925ace6aad.png)
+![Screenshot (373)](https://user-images.githubusercontent.com/93022913/139584763-dfc04154-d64f-4920-bbdf-81138c1ec2ac.png)
 
 2. Debit air pada pipa kubangan kerbau
 
